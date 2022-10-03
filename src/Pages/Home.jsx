@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import TopNFT from './components/TopNFT'
 import ArrowForwardOutlinedIcon from '@mui/icons-material/ArrowForwardOutlined';
 const Section = styled.section`
-  height: 90vh;
+  
 `
 
 const Container = styled.div`
@@ -18,7 +18,6 @@ margin-right: 30px;
 const HeroText = styled.h1`
 color: white;
 font-size: 90px;
-margin-right: 30px;
 `
 
 const Para = styled.p` 

@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import Navbar from '../components/Navbar'
 
 const Container = styled.div`
-  padding: 0px 30px;
+  padding: 0px 80px;
   background-color: black;
 `
 

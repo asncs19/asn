@@ -22,13 +22,16 @@ const NavButtons = styled.a`
 
 const Logo = styled.h2`
   color: white;
+  font-family: 'Pacifico', cursive;
+  font-weight: 400;
+  font-size: 40px;
 `
 
 const Navbar = () => {
   return (
     <>
       <NavBar>
-        <Logo>ArtChain</Logo>
+        <Logo>artchain</Logo>
         <ButtonsDiv>
             <NavButtons>Explore</NavButtons>
             <NavButtons>Stats</NavButtons>
