@@ -20,7 +20,7 @@ const MainLayout = () => {
   )
 }
 
-
-
+// UX Ui Desing 
+// https://xd.adobe.com/view/c7af8e6f-4b78-4b33-b2f2-44dc7a6959e9-92fc/?fullscreen
 
 export default MainLayout
